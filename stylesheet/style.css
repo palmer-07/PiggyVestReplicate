@@ -1,0 +1,49 @@
+
+
+.nav-header-logo a{
+    font-size: 2rem;
+    font-weight: bolder;
+    font-family:Helvetica, sans-serif;
+}
+
+.nav-links{
+    display: flex;
+    gap: 1rem;
+    color: #4C4E52;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+
+.nav-buttons button{
+    border: 0;
+    padding:0.5rem 0.8rem;
+    border: solid 0.12rem black;
+    border-radius: 0.8rem;
+    font-weight: bolder;
+}
+
+.nav-buttons button:nth-child(2){
+   background-color: black;
+   color: white; 
+}
+
+.nav-header{
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+}
+
+.rounded-div {
+    border-radius:10px;
+    background-color:light;
+    padding:20px;
+
+}
+
+.footer-foot {
+    list-style: none;
+}
+
+
